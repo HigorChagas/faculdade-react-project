@@ -24,7 +24,7 @@ function Header() {
               */}
             </IconButton>
             <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
-              Lista de Tarefas
+              Listar Tarefas
             </Typography>
           </Toolbar>
         </AppBar>
